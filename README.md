@@ -7,7 +7,6 @@ This was an existing website that needed to be refactored. I had to reword the C
 
 # Table of Contents
 - [Description](#description)
-- [Code Used](#Code)
 - [Usage](#usage)
 - [License](#license)
 - [Questions](#questions)
