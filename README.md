@@ -11,8 +11,6 @@ This was an existing website that needed to be refactored. I had to reword the C
 - [License](#license)
 - [Questions](#questions)
 
-# Installation Instructions:
-Coding Languages Used: HTML and CSS
 
 # Usage:
 Usage instructions: This project was used to show knowledge of HMTL and CSS. 
